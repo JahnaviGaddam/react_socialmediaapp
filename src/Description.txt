@@ -1,0 +1,6 @@
+we have to place App component in any router like Browser Router
+
+see video at 7:20 to understand nested routes concept and about outlet
+
+
+we can create our own hooks
